@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vojtech-tilp
+- 🌱 I’m currently learning Python
+- 📩 tilp.vojtech@gmail.com
