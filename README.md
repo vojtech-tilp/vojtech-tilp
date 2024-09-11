@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @vojtech-tilp
-- 🌱 I’m currently learning Python, especially data visualization and cleaning data
+- 👋 Hi
+- 🌱 Currently learning Python.
 - 📩 tilp.vojtech@gmail.com
